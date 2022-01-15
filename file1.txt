@@ -1,3 +1,7 @@
 hello git
 second
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> b2fb77d (새로운 기능 1 추가)
